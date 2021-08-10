@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OurSingapore</string>
+    <string name="btn5Stars">SHOW ISLANDS WITH 5 STAR RATING</string>
+    <string name="insert">INSERT ISLAND</string>
+    <string name="enterName">Enter Name</string>
+    <string name="enterDes">Enter Description</string>
+    <string name="enterSize">Enter Area in square km</string>
+    <string name="rate">Rate Island</string>
+    <string name="id">ID:</string>
+    <string name="name">Name</string>
+    <string name="des">Description</string>
+    <string name="size">Area in square km</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="cancel">CANCEL</string>
+</resources>
